@@ -11,7 +11,7 @@ public class MainMenu : MonoBehaviour
     public void OpenLeaderboard()
     {
         Debug.Log("URL OPENED");
-        Application.OpenURL("https://cs.csub.edu/~slara/3390/Project3/leaderboard/frontend/");
+        Application.OpenURL("https://kenyetta-congressional-lyla.ngrok-free.dev/");
     }
 
     public void QuitGame()
